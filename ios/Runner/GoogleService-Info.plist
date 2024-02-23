@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCMTr4qLp58PCBwn5NczNJazdhc17jqJJs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>823156076782</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseTicTac</string>
+	<key>PROJECT_ID</key>
+	<string>tic-tac-48dfd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tic-tac-48dfd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:823156076782:ios:05cc1f04c8a16b71d403ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://tic-tac-48dfd-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

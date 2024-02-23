@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823156076782",
+    "project_id": "tic-tac-48dfd",
+    "storage_bucket": "tic-tac-48dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823156076782:android:48e65bd571fe4320d403ff",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tic_tac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6a_7snRZTl3grRxYS_I3KgAbkM7jlxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
